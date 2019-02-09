@@ -17,7 +17,7 @@ It's important to give proper credit. Add links to any repo that inspired you or
 this is the first change.
 
 ### Second change
-this is the second change
+this is the second change.
 
 ###Third change
 this is the third change
